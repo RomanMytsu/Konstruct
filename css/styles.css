@@ -1,0 +1,32 @@
+body {
+  font-family: 'OpenSans', sans-serif;
+  color: #48555b;
+  font-size: 13px;
+}
+
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+
+/*! Header */
+.header-logo {
+  color: #171819;
+}
+.header-logo span {
+    color: #00A4E5;;
+}
+.header-menu-link {
+  font-size: 12px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 1.09091px;
+  color: #48555b;
+}
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: #00a4e5;
+}
+
